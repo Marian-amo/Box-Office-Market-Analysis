@@ -104,10 +104,10 @@ There is a statistically significant difference in box office revenue across mov
 ##  Key Findings
 # Plots
 
-This is an example plot from my analysis:
+This is an example plot from analysis:
 
-![Top Genres by Revenue](Top Performing Genres by Revenue.png)
-![Return on Investment by genre](Average Investment vs. Market Return by Genre.png)
+![Top Genres by Revenue](images\Top Performing Genres by Revenue.png)
+![Return on Investment by genre](images\Average Investment vs. Market Return by Genre.png)
 
 ###  Genre Performance
 - **Adventure, Action, and Sci-Fi** generate the highest total revenues.
