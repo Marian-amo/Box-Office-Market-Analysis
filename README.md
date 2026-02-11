@@ -127,7 +127,7 @@ The analysis demonstrates that movie genre significantly influences box office r
 - Tableau (for dashboarding and executive reporting)
 
 ## Tableau dashboard visualizations
-[Interactive Dashboard](https://public.tableau.com/views/Box-Office-Market-Analysis/BuildingtheNextMajorMovieStudio?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Interactive Dashboard](https://public.tableau.com/app/profile/marian.amondi/viz/BoxOfficeAnalysisDashboard/BoxOfficeAnalysisDashboard?publish=yes)
 
 ## Runtime Information
 - Total notebook runtime: 50.20 seconds
